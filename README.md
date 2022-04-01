@@ -9,7 +9,7 @@
 
 - 💞️ One project you would not find here is a product I implemented a while ago and it is still a work in progress, I keep updating it with cool new features.
 **This project is a website scraper and a product tracker**, is scrapes a B2B e-commerce site ([heo.com](http://www.heo.com)) and updates the client's B2C e-commerce site with any product data in case it was changed.
-You can see a preview of this project in the following repo: (heo-scraper-preview)[https://github.com/jongler-dev/heo-scraper-preview].
+You can see a preview of this project in the following repo: [heo-scraper-preview](https://github.com/jongler-dev/heo-scraper-preview).
 
 - 📫 email me: jongler.dev at gmail.com
 
